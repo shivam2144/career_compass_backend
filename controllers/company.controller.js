@@ -3,8 +3,10 @@ import getDataUri from "../utils/datauri.js";
 import cloudinary from "../utils/cloudinary.js";
 
 export const registerCompany = async (req, res) => {
+    
     try {
         const { companyName } = req.body;
+       
         if (!companyName) {
             return res.status(400).json({
                 message: "Company name is required.",
@@ -12,11 +14,13 @@ export const registerCompany = async (req, res) => {
             });
         }
         let company = await Company.findOne({ name: companyName });
+        // console.log("Company found:", company);
         if (company) {
-            return res.status(400).json({
+            console.log('Company already exists:', company);                            
+            return res.json({
                 message: "You can't register same company.",
                 success: false
-            })
+            })  
         };
         company = await Company.create({
             name: companyName,
