@@ -99,7 +99,8 @@ frontend/
 
 ## Screenshots
 
-_Add screenshots or GIFs here to showcase the UI and features._
+<img width="1920" height="1200" alt="Screenshot (3446)" src="https://github.com/user-attachments/assets/b44f57bb-da33-4bd4-9b01-b0a39e908ecf" />
+
 
 ## Contributing
 
