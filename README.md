@@ -4,11 +4,10 @@
 
 
 ✨ Features
-✨ Features
 
 ✅ User Roles – Students (Job Seekers) & Recruiters (Company Admins)
-✅ Authentication – Secure signup/login with JWT & cookies
-✅ Job Search – Browse, filter, and search jobs by title, category & location
+-✅ Authentication – Secure signup/login with JWT & cookies
+-✅ Job Search – Browse, filter, and search jobs by title, category & location
 ✅ Company Management – Recruiters can register & manage company profiles
 ✅ Job Posting – Recruiters can post and manage job listings
 ✅ Application Tracking – Students can apply for jobs & track status
