@@ -3,7 +3,7 @@
   🚀 A full-stack Career Compass that bridges the gap between job seekers and recruiters. It features user authentication, job browsing and filtering, company management, job posting, and application tracking.
 
 
-✨ Features
+## ✨ Features
 
 ✅ User Roles – Students (Job Seekers) & Recruiters (Company Admins)
 -✅ Authentication – Secure signup/login with JWT & cookies
