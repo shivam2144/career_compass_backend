@@ -98,6 +98,12 @@ frontend/
 - Update API endpoints in `frontend/src/utils/constant.jsx` if running locally.
 
 ## Screenshots
+<img width="1920" height="1200" alt="Screenshot (3426)" src="https://github.com/user-attachments/assets/fde82c20-7fee-46d7-a912-e125b67f6e70" />
+<img width="1920" height="1200" alt="Screenshot (3427)" src="https://github.com/user-attachments/assets/16c44f42-44ee-4d50-a5e0-4d8c8ebe30dd" />
+
+<img width="1920" height="1200" alt="Screenshot (3428)" src="https://github.com/user-attachments/assets/80f8d96c-aa8a-4136-bfc5-7d8a51038d1d" />
+
+
 
 <img width="1920" height="1200" alt="Screenshot (3446)" src="https://github.com/user-attachments/assets/b44f57bb-da33-4bd4-9b01-b0a39e908ecf" />
 
