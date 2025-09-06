@@ -5,14 +5,22 @@
 
 ## ✨ Features
 
-✅ User Roles – Students (Job Seekers) & Recruiters (Company Admins)
--✅ Authentication – Secure signup/login with JWT & cookies
--✅ Job Search – Browse, filter, and search jobs by title, category & location
-✅ Company Management – Recruiters can register & manage company profiles
-✅ Job Posting – Recruiters can post and manage job listings
-✅ Application Tracking – Students can apply for jobs & track status
-✅ Admin Dashboard – Recruiters can view applicants & shortlist candidates
-✅ Profile Management – Update profile, add skills & upload resumes
+✅ **User Roles** – Students (Job Seekers) & Recruiters (Company Admins)  
+
+✅ **Authentication** – Secure signup/login with JWT & cookies  
+
+✅ **Job Search** – Browse, filter, and search jobs by title, category & location  
+
+✅ **Company Management** – Recruiters can register & manage company profiles  
+
+✅ **Job Posting** – Recruiters can post and manage job listings  
+
+✅ **Application Tracking** – Students can apply for jobs & track status  
+
+✅ **Admin Dashboard** – Recruiters can view applicants & shortlist candidates  
+
+✅ **Profile Management** – Update profile, add skills & upload resumes  
+
 
 ## Tech Stack
 
@@ -151,9 +159,9 @@ frontend/
 
 
 
-🌐 Deployment
+##🌐 Deployment
 
-Frontend → Vercel
-Backend → Render
+ **Frontend ** → Vercel
+ **Backend  ** → Render
 
 **Career Compass** – Empowering your career journey!
